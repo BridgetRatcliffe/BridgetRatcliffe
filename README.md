@@ -1,4 +1,6 @@
-Hi, I’m @BridgetRatcliffe. I am currently a postdoc at AIP, working at the intersection of Astrophysics and Statistics. I am interested in using the observable chemistry of stars to learn more about stellar birth properties and Milky Way evolution. You can reach me at bratcliffe at aip.de
+Hi, I’m @BridgetRatcliffe. I am currently a postdoc at AIP, working at the intersection of Astrophysics and Statistics. I am interested in using the observable chemistry of stars to learn more about stellar birth properties and Milky Way evolution. You can reach me at bratcliffe at aip.de. 
+
+If you want to learn more about me, check out my [website](https://bridgetratcliffe.github.io/)
 
 <!---
 BridgetRatcliffe/BridgetRatcliffe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
